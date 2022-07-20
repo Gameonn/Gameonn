@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+Web+Developer....++++++++++)](https://git.io/typing-svg)
+
+<h2 align="center">Hi there 👋, I'm Ankit Jindal!</h2>
 
 <!--
 **Gameonn/Gameonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
