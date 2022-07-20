@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+Web+Developer....++++++++++)](https://git.io/typing-svg)
 <p align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/6601996/179924271-4afa4c49-b238-438e-bbf6-46d46e855ab6.png" />
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wb0oi2i6l62kffjntq7xt8av8xoo30sqho6g8ymh&rid=giphy.gif" />
 </p>  
 <h2 align="center">Hi there 👋, I'm Ankit Jindal!</h2>
 
