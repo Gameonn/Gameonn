@@ -4,16 +4,19 @@
 </p>  
 <h2 align="center">Hi there 👋, I'm Ankit Jindal! </h2> 
 
+
+<h4>🎨 What am I learning currently?</h4>
+<p>At the moment I'm enjoying working with Reactjs and exploring more Full stack web projects. From coding to leading projects, its been all along a great experience🚀</p>
+
+<h4>✍ Programming Languages</h4>
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gameonn&show_icons=true&locale=en&langs_count=10&layout=compact" alt="Gameonn" ></div>
 <br>
-<h3>🎨 What am I learning currently?</h3>
-<p>At the moment I'm enjoying working with Reactjs and exploring more Full stack web projects. From coding to leading projects, its been all along a great experience🚀</p>
-<h3 align="left">Check my stats 👀</h3>
+<h4 align="left">Check my stats 👀</h4>
 <img  src="https://github-profile-trophy.vercel.app/?username=gameonn&theme=juicyfresh&no-bg=true" alt="Gameonn"><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gameonn&show_icons=true&locale=en" alt="Gameonn" ></p>
-<h3 align="center"> 📈 My Contribution Graph </h3>
+<h4 align="center"> 📈 My Contribution Graph </h4>
  <a href="https://github.com/gameonn"><img src="https://activity-graph.herokuapp.com/graph?username=gameonn&theme=elegant" alt="Gameonn's GitHub Activity Graph"></a><br/><br/> 
-<h3 align="left">Streaks 🔥</h3>
+<h4 align="left">Streaks 🔥</h4>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gameonn&theme=light" alt="Gameonn"></p><br><br>
 
 
