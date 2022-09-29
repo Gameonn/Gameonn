@@ -14,7 +14,6 @@
 <h3>✍ Programming Languages</h3>
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gameonn&show_icons=true&locale=en&langs_count=10&layout=compact" alt="Gameonn" ></div>
 
-
 <h3 align="left">Check my stats 👀</h3>
 <img  src="https://github-profile-trophy.vercel.app/?username=gameonn&theme=juicyfresh&no-bg=true" alt="Gameonn"><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gameonn&show_icons=true&locale=en" alt="Gameonn" ></p>
