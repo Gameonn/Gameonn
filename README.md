@@ -7,11 +7,10 @@
 </p>
 <h2 align="center">Hi there 👋, I'm Ankit Jindal! </h2> 
 
-
 <h3>🎨 What am I learning currently?</h3>
 <p>At the moment I'm enjoying working with Reactjs and exploring more Full stack web projects. From coding to leading projects, its been all along a great experience🚀</p>
-
-<h3>✍ Programming Languages</h3>
+<hr />
+<h3> ✍ Programming Languages</h3>
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gameonn&show_icons=true&locale=en&langs_count=10&layout=compact" alt="Gameonn" ></div>
 
 <h3 align="left">Check my stats 👀</h3>
