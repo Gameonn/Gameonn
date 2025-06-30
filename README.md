@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+Developer .....++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+Developer.....++++++++++)](https://git.io/typing-svg)
 <p align="center">
   <img width="50%" src="https://user-images.githubusercontent.com/6601996/179924271-4afa4c49-b238-438e-bbf6-46d46e855ab6.png" />
 </p>
